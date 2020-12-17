@@ -19,6 +19,7 @@
 <img src="https://tools-qr-production.s3.amazonaws.com/output/apple-toolbox/972fa0d4e31c61ab5b2355d40b42835d/9938b37c-ffbc-4e17-a05e-d8988fc1ff22.png">
 
 <a href="https://apps.apple.com/us/app/habitkeeper/id1535401033?itsct=apps_box&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-top-left-radius: 13px; border-top-right-radius: 13px; border-bottom-right-radius: 13px; border-bottom-left-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-US?size=250x83&amp;releaseDate=1607817600&h=263016d3a0f9c5a6febf4305b7aeffb9" alt="Download on the App Store" style="border-top-left-radius: 13px; border-top-right-radius: 13px; border-bottom-right-radius: 13px; border-bottom-left-radius: 13px; width: 250px; height: 83px;"></a>
+<a href="https://apps.apple.com/us/app/habitkeeper/id1535401033?itsct=apps_box&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-top-left-radius: 13px; border-top-right-radius: 13px; border-bottom-right-radius: 13px; border-bottom-left-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-US?size=250x83&amp;releaseDate=1607817600&h=4134972af3b3f64672bb9182a5e7cb9c" alt="Download on the Mac App Store" style="border-top-left-radius: 13px; border-top-right-radius: 13px; border-bottom-right-radius: 13px; border-bottom-left-radius: 13px; width: 250px; height: 83px;"></a>
 
 ### Iron Buddy
 
