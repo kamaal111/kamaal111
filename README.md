@@ -1,12 +1,5 @@
 ## My Apps
 
-### All Apps
-
-<img src="https://tools-qr-production.s3.amazonaws.com/output/apple-toolbox/6897cd6274231681e86ea168e9be86d9/48772d07-c34c-48c2-b975-ef06653ef6fe.png">
-
-<a href="https://apps.apple.com/us/developer/kamaal-farah/id1502158009?itsct=apps_box&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-top-left-radius: 13px; border-top-right-radius: 13px; border-bottom-right-radius: 13px; border-bottom-left-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-US?size=250x83&h=a62c5bd7033b139fd4c6a8ebf4199ef6" alt="Download on the App Store" style="border-top-left-radius: 13px; border-top-right-radius: 13px; border-bottom-right-radius: 13px; border-bottom-left-radius: 13px; width: 250px; height: 83px;"></a>
-<a href="https://apps.apple.com/us/developer/kamaal-farah/id1502158009?itsct=apps_box&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-top-left-radius: 13px; border-top-right-radius: 13px; border-bottom-right-radius: 13px; border-bottom-left-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-mac-app-store/black/en-US?size=250x83&h=87c22d7b475ab0f57385899c92058b69" alt="Download on the Mac App Store" style="border-top-left-radius: 13px; border-top-right-radius: 13px; border-bottom-right-radius: 13px; border-bottom-left-radius: 13px; width: 250px; height: 83px;"></a>
-
 ### Color Selector
 
 <img src="https://tools-qr-production.s3.amazonaws.com/output/apple-toolbox/1d9991880a8ef5ceab1cc0574de9b74b/8ff5d0d5-5385-483a-a4e4-ed2d15ab17dc.png">
