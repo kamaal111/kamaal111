@@ -1,3 +1,17 @@
+# Kamaal111 ✌️
+
+## Learning goals 2021
+
+- Swift
+  - [ ] SwiftUI Path
+  - [ ] Combine
+  - [ ] UIKit
+- React Native
+  - [ ] Animated
+- Golang
+  - [ ] Backend programming in general
+
+
 ## My Apps
 
 ### Color Selector
