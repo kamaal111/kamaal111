@@ -5,7 +5,7 @@
 - Swift
   - [ ] SwiftUI Path
   - [ ] Combine
-  - [ ] CloudKit
+  - [x] CloudKit
   
   - [HabitKeeper](https://apps.apple.com/us/app/habitkeeper/id1535401033)
   - [x] UIKit
