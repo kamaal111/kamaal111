@@ -21,3 +21,15 @@
 <img src="https://tools-qr-production.s3.amazonaws.com/output/apple-toolbox/1815705641d5561a1c3b2d56c0b4dbbb/c8a4e8d2-d689-401e-bf35-bdc0877e8556.png" width="200px" height="200px">
 
 <a href="https://apps.apple.com/us/app/ironbuddy/id1502158010?itsct=apps_box&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-top-left-radius: 13px; border-top-right-radius: 13px; border-bottom-right-radius: 13px; border-bottom-left-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-US?size=250x83&amp;releaseDate=1584316800&h=4acd15b2edc1d0acb88ffef8c8553f62" alt="Download on the App Store" style="border-top-left-radius: 13px; border-top-right-radius: 13px; border-bottom-right-radius: 13px; border-bottom-left-radius: 13px; width: 250px; height: 83px;"></a>
+
+## Swift Packages
+
+- [ShrimpExtensions](https://github.com/kamaal111/ShrimpExtensions)
+- [PassLibrary](https://github.com/kamaal111/PassLibrary)
+- [SalmonUI](https://github.com/kamaal111/SalmonUI)
+- [PersistanceManager](https://github.com/kamaal111/PersistanceManager)
+
+## NPM Packages
+
+- [react-native-userdefaults](https://github.com/kamaal111/react-native-userdefaults)
+- [react-native-pass-library](https://github.com/kamaal111/react-native-pass-library)
