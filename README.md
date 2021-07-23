@@ -1,7 +1,5 @@
 # Kamaal111 ✌️
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-
 ## My Apps
 
 ### Color Selector
@@ -35,3 +33,5 @@
 
 - [react-native-userdefaults](https://github.com/kamaal111/react-native-userdefaults)
 - [react-native-pass-library](https://github.com/kamaal111/react-native-pass-library)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kamaal111)](https://github.com/ryo-ma/github-profile-trophy)
